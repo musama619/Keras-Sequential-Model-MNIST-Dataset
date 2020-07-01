@@ -12,3 +12,6 @@
 
 
 ![download](https://user-images.githubusercontent.com/34093998/86288313-2468e780-bc03-11ea-8179-6e135d33b6f8.jpg)
+
+
+![Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset](https://user-images.githubusercontent.com/34093998/86288439-5b3efd80-bc03-11ea-9b22-c8cca1864228.png)
