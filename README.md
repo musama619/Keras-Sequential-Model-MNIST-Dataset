@@ -9,3 +9,4 @@
 - Used activation fuctions 'relu' and 'softmax' and optimizer 'adam
 - Trained the model with 5 epochs with accuracy more that 95%
 - Evaluated the model with more that 97% accuracy.
+
