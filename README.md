@@ -10,3 +10,5 @@
 - Trained the model with 5 epochs with accuracy more that 95%
 - Evaluated the model with more that 97% accuracy.
 
+
+![download](https://user-images.githubusercontent.com/34093998/86288313-2468e780-bc03-11ea-8179-6e135d33b6f8.jpg)
